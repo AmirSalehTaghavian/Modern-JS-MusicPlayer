@@ -15,21 +15,21 @@ const background = document.getElementById("background");
 const songs = [
   {
     path:
-      "media/html.m4a",
+      "./html.m4a",
     displayName: "ostokhon",
     artist: "Ozbi",
     cover:
       "https://images.genius.com/ee202c6f724ffd4cf61bd01a205eeb47.1000x1000x1.jpg",
   },
   {
-    path: "media/kar.m4a",
+    path: "./kar.m4a",
     displayName: "Developing",
     artist: "Flora Cash",
     cover: "images/peakpx.jpg",
   },
   {
     path:
-      "media/bazar.m4a",
+      "./bazar.m4a",
     displayName: "Earn",
     artist: "Linkin Park",
     cover:
